@@ -1,0 +1,20 @@
+//Solution goes in Sources
+import Foundatiotring {
+        let dateFormatter = DateFormatter()
+
+        dateFormatter.dateFormat = dateFormat
+        dateFormatter.locale = Locale(identifier: locale)
+        dateFormatter.timeZone = TimeZone(abbreviation: tz)
+
+        return dateFormatter.string(from: date)
+    }
+
+    init?(from: String) {
+        guard let parsedDate = to_date(date: from) else {
+            return nil
+        }
+
+        let targetDate = parsedDate.addingTimeInterval(pow(10, 9))
+        description = to_string(date: targetDate)
+    }
+}

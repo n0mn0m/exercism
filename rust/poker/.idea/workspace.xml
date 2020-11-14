@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13f0d60-cf75-4236-8147-950d0f50df89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xhu8dogp" />
+  </component>
+  <component name="ProjectId" id="1k1L88BEy6F69DsEZL1JzTI1LEV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Cargo.toml" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="840" y="23" width="840" height="1027" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604885647064">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="840" y="23" width="840" height="1027" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.1027@0.23.1680.1027" timestamp="1604885647064" />
+    <state x="419" y="23" width="840" height="1034" key="search.everywhere.popup" timestamp="1604863951217">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="419" y="23" width="840" height="1034" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1604863951217" />
+  </component>
+</project>
